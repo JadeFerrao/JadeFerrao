@@ -8,9 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-This is jayden here!!
- 
-A Tech-Savvy AI/ML Enthusiast and Computer Science Graduate Fueling🚀 Innovation through Cutting-Edge Solutions.
+This is Jayden here!! Sharpening and Testing my skills to launch a better version of Myself.
  
 I'm a highly motivated and intellectually curious individual who's always up for a challenge. With my proactive and ambitious approach towards problem-solving, I'm always on the lookout for ways to make a positive impact on society using my passion for AI/XR/R&D 💡.
 
@@ -18,7 +16,7 @@ I'm a highly motivated and intellectually curious individual who's always up for
 
 🏞️ When I'm not busy with work or personal development, I like to indulge in outdoor activities such as traveling ✈️ and exploring nature 🌲, or enriching myself with cultural experiences like reading books 📖, watching movies 🍿, and even learning new languages 🌎.
 
-🔭 I’m currently working on projects that im very keen on learning like AI/ML tools.  I’m currently learning frontend and ML tools like spline,webflow,figma,jupyter,flask,panda,django,mysql. 👯 I’m looking to collaborate on various projects once given the chance as i love building new projects, working on them and learning new technologies🚀.
+🔭 I’m currently working on projects that im very keen on learning like AI/ML tools.  I’m currently learning frontend and ML tools like spline,figma,jupyter,flask,pandas,django,mysql. 👨‍💻👩‍💻 I’m looking to collaborate on various projects once given the chance as i love building new projects, working on them and learning new technologies🚀.
 
 
 ---
