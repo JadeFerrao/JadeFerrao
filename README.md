@@ -22,4 +22,4 @@ I'm a highly motivated and intellectually curious individual who's always up for
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,py,css,html,php,js,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,figma,github,mysql,vscode,webflow,tensorflow,swift,pytorch,stackoverflow&perline=3)](https://skillicons.dev)
