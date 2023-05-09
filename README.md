@@ -22,4 +22,4 @@ I'm a highly motivated and intellectually curious individual who's always up for
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,figma,github,mysql,vscode,webflow,tensorflow,mysql,pytorch,stackoverflow&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,figma,github,mysql,vscode,webflow,tensorflow,django,pytorch,stackoverflow&perline=3)](https://skillicons.dev)
