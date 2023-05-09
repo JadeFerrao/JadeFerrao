@@ -16,10 +16,10 @@ I'm a highly motivated and intellectually curious individual who's always up for
 
 🏞️ When I'm not busy with work or personal development, I like to indulge in outdoor activities such as traveling ✈️ and exploring nature 🌲, or enriching myself with cultural experiences like reading books 📖, watching movies 🍿, and even learning new languages 🌎.
 
-🔭 I’m currently working on projects that im very keen on learning like AI/ML tools.  I’m currently learning frontend and ML tools like spline,figma,jupyter,flask,pandas,django,mysql. 👨‍💻👩‍💻 I’m looking to collaborate on various projects once given the chance as i love building new projects, working on them and learning new technologies🚀.
+🔭 I’m currently working on projects that im very keen on learning like AI/ML tools.  I’m currently learning frontend and ML tools like spline,figma,jupyter,pytorch,keras,sci-ml kit,django,mysql. 👨‍💻👩‍💻 I’m looking to collaborate on various projects once given the chance as i love building new projects, working on them and learning new technologies🚀.
 
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,figma,github,mysql,vscode,webflow,tensorflow,flask,pytorch,stackoverflow&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,figma,github,mysql,vscode,webflow,tensorflow,sql,pytorch,stackoverflow&perline=3)](https://skillicons.dev)
