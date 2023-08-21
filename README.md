@@ -16,7 +16,7 @@ I'm a highly motivated and intellectually curious individual who's always up for
 
 🏞️ When I'm not busy with work or personal development, I like to indulge in outdoor activities such as traveling ✈️ and exploring nature 🌲, or enriching myself with cultural experiences like reading books 📖, watching movies 🍿, and even learning new languages 🌎.
 
-🔭 I’m currently working on projects that im very keen on learning like AI/ML as well to get myself to try some AR/VR tools. I’m currently learning some few ML tools like pytorch,pandas,tensorflow,seaborn,matplotlib using google colab. 👨‍💻👩‍💻 I’m looking to collaborate on various projects once given the chance as i love building new projects, working on them and learning new technologies🚀.
+🔭 I’m currently working on projects so as to get accustomed to AI/ML & AR/VR tools. 👨‍💻👩‍💻 I’m looking to collaborate on various projects once given the chance as i love building new projects, working on them and learning new technologies🚀.
 
 
 ---
