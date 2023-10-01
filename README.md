@@ -22,4 +22,9 @@ I'm a highly motivated and intellectually curious individual who's always up for
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,python,github,mysql,vscode,tensorflow,pytorch,stackoverflow&perline=3)](https://skillicons.dev)
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
+/>
+
+<i class="ci ci-spotify ci-2x"></i>
