@@ -22,5 +22,4 @@ I'm a highly motivated and intellectually curious individual who's always up for
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://skillicons.dev/icons?i=html,css,js,vuejs,php,cpp,python,wordpress,mysql,github,git,tensorflow,stackoverflow,keras&perline=5" alt="Tech Stack" /> 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vuejs,php,c++,python,wordpress,mysql,github,git,tensorflow,stackoverflow)](https://skills.thijs.gg)
+<img src="https://skillicons.dev/icons?i=html,css,js,vuejs,jquery,php,cpp,py,wordpress,mysql,github,git,tensorflow,stackoverflow,keras&perline=5" alt="Tech Stack" /> 
