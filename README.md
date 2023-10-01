@@ -22,4 +22,4 @@ I'm a highly motivated and intellectually curious individual who's always up for
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c++,python,wordpress,sql,github,git&perline=5" alt="Tech Stack" /> 
