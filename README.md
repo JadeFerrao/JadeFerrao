@@ -21,4 +21,4 @@ I believe that continuous learning is the foundation of impactful product develo
 ---
 
 ### 🛠️ Languages and Tools :
-<img src="https://skillicons.dev/icons?i=html,css,js,vuejs,jquery,php,cpp,py,wordpress,mysql,github,vscode,git,tensorflow,stackoverflow&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,vuejs,jquery,php,cpp,py,wordpress,mysql,github,vscode,git,tensorflow,stackoverflow,react,reactnative,postman,swagger,mui&perline=5" alt="Tech Stack" />
